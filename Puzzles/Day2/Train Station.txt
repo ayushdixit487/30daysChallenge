@@ -1,0 +1,8 @@
+Every day, Joe arrives at the train station from work at 6pm.
+His wife leaves home in her car and meets him there at exactly 6pm, and drives him home. One day, Joe gets to the station an hour early, and starts walking home, until his wife meets him on the road. They get home 20 minutes earlier than usual.
+How long was he walking?
+Distances are unspecified. Speeds are unspecified, but constant.
+Output a number which represents the answer in minutes.
+
+Case 1 : Answer is a integer. Just put the number without any decimal places if its an integer. If the answer is Infinity, output Infinity.
+Case 2 : Floating point number. Round it off to 2 decimal places and output it as I.xx where I is the integer part of the answer, and xx are 2 decimal digits after rounding off.Train
