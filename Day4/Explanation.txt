@@ -1,0 +1,5 @@
+Burining a single rope lets you measure 1 hour. Burning 2 ends of it at the same time let you measure 30 minutes.
+Start by lighting both ends of one rope and only one end of the second rope. When the first rope is finished burning
+(i.e., after a half an hour), light the other end of the second rope. At this point, the second rope is halfway burned, 
+so it will take another 15 minutes to burn the second half with both ends lit. When the second rope is done burning, 45 minutes has elapsed.
+15 minutes has elapsed after first rope is completely burnt.
